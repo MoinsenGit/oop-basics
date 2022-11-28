@@ -2,7 +2,8 @@ package de.neuefische;
 
 public class Main {
     public static void main(String[] args) {
-        Car bmw = new Car(); // INSTANZIERUNG: von der Klasse Car wird ein neuer Typ erstellt
+        Car bmw = new Car(); // INSTANZIERUNG: von der Klasse Car wird ein neuer
+        // Typ = Objekt mit konkreten Daten erstellt
         bmw.brand = "BMW";
         bmw.year = 2015;
         bmw.type = "Sedan";
@@ -23,6 +24,6 @@ public class Main {
         System.out.println("Baujahr: " + bmw.year + "\n");
 
         System.out.println(audiDescription);
-        System.out.println("Baujahr: " + audi.year + "\n");
+        System.out.println("Baujahr: " + audi.year + "Maschine: " + Car.engine + "\n");
     }
 }

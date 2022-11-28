@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb32dcc-1790-46d0-b342-89f5eefdcf9a" name="Changes" comment="initial class Car defined" />
+    <list default="true" id="dbb32dcc-1790-46d0-b342-89f5eefdcf9a" name="Changes" comment="in pom.xml maven and surefire added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669632020102</updated>
-      <workItem from="1669632023190" duration="1291000" />
+      <workItem from="1669632023190" duration="4329000" />
     </task>
     <task id="LOCAL-00001" summary="initial class Car defined">
       <created>1669633276103</created>
@@ -77,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669633276103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="in pom.xml maven and surefire added">
+      <created>1669634037963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669634037963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial class Car defined" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial class Car defined" />
+    <MESSAGE value="in pom.xml maven and surefire added" />
+    <option name="LAST_COMMIT_MESSAGE" value="in pom.xml maven and surefire added" />
   </component>
 </project>
